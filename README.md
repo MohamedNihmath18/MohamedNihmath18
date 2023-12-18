@@ -1,4 +1,4 @@
-<img src="https://github.com/MohamedNihmath18/MohamedNihmath18/assets/106542888/bfc59ef8-4f64-4226-abe2-7dc89488dc26" heigth="500px" width="1000px" />
+
 
 <h1 align="center">Hi 👋, I'm Mohamed Nihmathullah ❤</h1>
 <h3 align="center">Dedicated full-stack developer with a passion for creating holistic solutions.</h3>
