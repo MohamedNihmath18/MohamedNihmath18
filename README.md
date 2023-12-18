@@ -1,3 +1,4 @@
+![Screenshot (7)](https://github.com/MohamedNihmath18/MohamedNihmath18/assets/106542888/53b77726-287c-4289-aae1-91730d8e6134)
 <h1 align="center">Hi 👋, I'm Mohamed Nihmathullah ❤</h1>
 <h3 align="center">Dedicated full-stack developer with a passion for creating holistic solutions.</h3>
 
