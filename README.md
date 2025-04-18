@@ -6,7 +6,7 @@
 </p>
 
 <!-- GIF aligned right -->
-<p align="right">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="280" />
 </p>
 
@@ -62,7 +62,7 @@
 <h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-nihmathullah-bb111322b/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-nihmathullah-a-bb111322b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </p>
