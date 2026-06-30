@@ -57,10 +57,10 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamednihmath18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednihmath18&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohamednihmath18&theme=tokyonight&hide_border=true" height="165"/>
