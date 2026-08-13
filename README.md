@@ -63,9 +63,8 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamednihmath18&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamednihmath18&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="Streak Stats"/>
 </p>
-
 ---
 
 <h3 align="center">📫 Let's Connect</h3>
