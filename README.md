@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+Analyst;Machine+Learning+%26+Deep+Learning;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+Analyst;Machine+Learning+%26+Deep+Learning;Turning+Data+into+Decisions;Building+Full-Stack+AI+Apps" alt="Typing SVG" />
+</p>
 </p>
 <p align="center">
   🔭 Building ML-powered apps with <b>CNNs, ResNet, EfficientNet & XGBoost</b><br/>
