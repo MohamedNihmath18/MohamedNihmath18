@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+Analyst;Machine+Learning+%26+Deep+Learning;Turning+Data+into+Decisions;Building+Full-Stack+AI+Apps" alt="Typing SVG" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2c4516104803737.5f6b2195f19ee.gif" height="280" />
+</p>
 </p>
 </p>
 <p align="center">
