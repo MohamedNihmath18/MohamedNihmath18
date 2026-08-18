@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2c4516104803737.5f6b2195f19ee.gif" height="280" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="280" />
 </p>
 </p>
 </p>
