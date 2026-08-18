@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="260" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+Analyst;Machine+Learning+%26+Deep+Learning;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
-
 <p align="center">
   🔭 Building ML-powered apps with <b>CNNs, ResNet, EfficientNet & XGBoost</b><br/>
   🌱 Always learning — currently leveling up my <b>Data Science</b> game<br/>
