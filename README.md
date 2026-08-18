@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/32512/screenshots/6253457/dribbble_isometric.gif" height="280" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2c4516104803737.5f6b2195f19ee.gif" height="280" />
 </p>
 </p>
 </p>
